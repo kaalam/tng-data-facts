@@ -1,3 +1,3 @@
 #!/bin/bash
 
-tar -xvf compressed_data/tng-data-facts.tar.gz
+7z x -y compressed_data/tng-data-facts.7z.001
