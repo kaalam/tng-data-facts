@@ -19,3 +19,11 @@ your own version of the dataset. These images are maintained by kaalam.ai.
 
 This is automatically pulled, decompressed and loaded into Jazz persistence by the Jazz TNG series docker images. Refer to the
 The Tangle [reference](https://kaalam.github.io/jazz_reference/reference_docker_tangle_server.html) for details.
+
+## Content
+
+| Dataset    | Original source                            | License |
+| ---------- | ------------------------------------------ | ------------- |
+| ConceptNet | https://github.com/commonsense/conceptnet5 | [CC Attribution Share-Alike 4.0](LICENSE_ConceptNet.md)   |
+| Ascent     | https://ascent.mpi-inf.mpg.de              | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| GenericsKB | https://allenai.org/data/genericskb        | [CC Attribution 4.0](LICENSE_GenericsKB.md)   |
