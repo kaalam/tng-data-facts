@@ -22,8 +22,8 @@ The Tangle [reference](https://kaalam.github.io/jazz_reference/reference_docker_
 
 ## Content
 
-| Dataset    | Original source                            | License |
-| ---------- | ------------------------------------------ | ------------- |
+| Dataset    | Original source                            | License                                                   |
+| ---------- | ------------------------------------------ | --------------------------------------------------------- |
 | ConceptNet | https://github.com/commonsense/conceptnet5 | [CC Attribution Share-Alike 4.0](LICENSE_ConceptNet.md)   |
 | Ascent     | https://ascent.mpi-inf.mpg.de              | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| GenericsKB | https://allenai.org/data/genericskb        | [CC Attribution 4.0](LICENSE_GenericsKB.md)   |
+| GenericsKB | https://allenai.org/data/genericskb        | [CC Attribution 4.0](LICENSE_GenericsKB.md)               |
